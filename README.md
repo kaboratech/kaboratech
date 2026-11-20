@@ -3,13 +3,15 @@
 
 # KABORATECH
 
-### Technology · Homelab · Hardware · Open Source
+### Technology · Hardware · Homelab · Reviews · Open Source
 
 **Technology without limits.**
 
-Building, testing and sharing technology across different platforms and ecosystems.
+Exploring, building, testing and sharing technology.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Kaboratech-181717?style=for-the-badge&logo=github)](https://github.com/kaboratech)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/kaboratech/videos)
+[![Linktree](https://img.shields.io/badge/All_Links-Kaboratech-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/kaboratech)
 
 </div>
 
@@ -19,11 +21,11 @@ Building, testing and sharing technology across different platforms and ecosyste
 
 Welcome to the official Kaboratech GitHub.
 
-Kaboratech is a technology-focused project exploring hardware, software, operating systems, home servers and practical technology solutions.
+Kaboratech is an independent technology brand focused on hardware, software, operating systems, homelab projects, technology reviews and practical experiments.
 
-Here I share projects, experiments, scripts, documentation and ideas developed through hands-on testing and everyday use.
+Through hands-on testing, tutorials and content creation, I explore different platforms and share real-world technology projects.
 
-From Linux servers and single-board computers to Mac, Windows and Hackintosh systems, this is a place for exploring technology without boundaries.
+From Linux servers and single-board computers to Mac, Windows and Hackintosh systems, the goal is to explore technology without limits.
 
 ## What I Work With
 
@@ -51,7 +53,7 @@ Exploring Docker, storage, media services, photo management, networking, automat
 
 ### Kaboratech Dashboard
 
-A custom dashboard for monitoring and interacting with homelab services, including system information, network services and music streaming.
+A custom dashboard for monitoring and interacting with homelab services, system information, network services and music streaming.
 
 ### GL.iNet Comet Q
 
@@ -68,6 +70,19 @@ Utilities, automation scripts and experiments developed for everyday systems adm
 ### Mac, Windows & Hackintosh
 
 Exploring desktop platforms, operating systems, hardware compatibility and cross-platform technology.
+
+---
+
+## Content Creation
+
+Kaboratech also creates technology content, including:
+
+- Hardware reviews and product testing.
+- Homelab and self-hosting projects.
+- Single-board computer experiments.
+- Linux, Mac and Windows tutorials.
+- Retro computing and hardware projects.
+- Technology guides and practical demonstrations.
 
 ---
 
@@ -91,9 +106,42 @@ Exploring desktop platforms, operating systems, hardware compatibility and cross
 
 ---
 
-## Connect
+## Connect With Kaboratech
 
-**Kaboratech — Technology without limits.**
+### YouTube
 
-Exploring, building, testing and sharing.
+[![YouTube](https://img.shields.io/badge/Kaboratech-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/kaboratech/videos)
 
+[![Portugal Media Center](https://img.shields.io/badge/Portugal_Media_Center-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/PORTUGALMEDIACENTER/videos)
+
+### TikTok
+
+[![TikTok EN](https://img.shields.io/badge/TikTok_EN-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@kaboratechmultimedia)
+
+[![TikTok PT](https://img.shields.io/badge/TikTok_PT-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@kaboratechpt)
+
+[![TikTok ES](https://img.shields.io/badge/TikTok_ES-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@kaboratech_es)
+
+### Social Media
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaboratech/)
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61556703088633)
+
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kaboratech)
+
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@kaboratech)
+
+[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/kaboratech)
+
+---
+
+<div align="center">
+
+**KABORATECH**
+
+Technology without limits.
+
+*Exploring · Building · Testing · Sharing*
+
+</div>
